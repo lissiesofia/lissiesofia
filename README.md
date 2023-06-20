@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lissiesofia
-- 👀 I’m interested in space and food
+- 👀 I play a lot of lords of waterdeep
 - 🌱 I’m currently learning C# and Python
 - 🚀 I’m looking to collaborate on games
 - 📫 How to reach me - lissiesofia@gmail.com
