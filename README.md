@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lissiesofia
 - 👀 I play a lot of lords of waterdeep
-- 🌱 I’m currently learning C# and Python
-- 🚀 I’m looking to collaborate on games
+- 🌱 I’m developing knowledge in areas of data science and game development
+- 🚀 I am currently 10000000000 gigaparsecs away from Earth, but I do visit often
 - 📫 How to reach me - lissiesofia@gmail.com
 
 <!---
