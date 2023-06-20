@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lissiesofia
 - 👀 I’m interested in space and food
 - 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on games
+- 🚀 I’m looking to collaborate on games
 - 📫 How to reach me - lissiesofia@gmail.com
 
 <!---
